@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a bag of fresh laundry detergent">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e2edf1"/><stop offset="1" stop-color="#cbdce4"/></linearGradient><linearGradient id="bag" x2="1" y2="1"><stop stop-color="#528398"/><stop offset="1" stop-color="#345c72"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="365" cy="76" r="59" fill="#f8ffff" opacity=".59"/><ellipse cx="240" cy="299" rx="122" ry="15" fill="#4d6c79" opacity=".15"/>
+<path d="M157 103h166l23 30-12 149H146l-12-149z" fill="url(#bag)"/><path d="M157 103h166l23 30H134z" fill="#a0c1c4"/><path d="M176 95h128" stroke="#597988" stroke-width="8" stroke-linecap="round"/>
+<path d="M205 154c12-24 45-24 57 0 12 26-5 43-29 58-24-15-41-32-28-58Z" fill="#c9e5cb"/><path d="M230 199c8-17 7-29-2-43m5 26 14-12" fill="none" stroke="#6a9878" stroke-width="3" stroke-linecap="round"/>
+<text x="240" y="235" text-anchor="middle" fill="#f5f5e9" font-family="Georgia,serif" font-size="16">FRESH WASH</text><text x="240" y="258" text-anchor="middle" fill="#d6e5e2" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">GENTLE DETERGENT</text><text x="240" y="279" text-anchor="middle" fill="#e4efea" font-family="Arial,sans-serif" font-size="12">1 kg</text>
+</svg>

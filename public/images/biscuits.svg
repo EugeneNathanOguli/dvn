@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a pack of golden butter biscuits">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4e7d8"/><stop offset="1" stop-color="#ebd6be"/></linearGradient><linearGradient id="pack" x2="1" y2="1"><stop stop-color="#af744d"/><stop offset="1" stop-color="#805139"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="362" cy="75" r="55" fill="#fff8eb" opacity=".6"/><ellipse cx="240" cy="287" rx="142" ry="16" fill="#876447" opacity=".15"/>
+<path d="m138 137 31-17 145 0 28 18-13 115-29 15H164l-28-17z" fill="url(#pack)"/><path d="M169 120h145l-1 134H165z" fill="#f0ddb4"/><path d="M153 130v108m170-108v108" stroke="#d6ba88" stroke-width="3"/>
+<circle cx="207" cy="184" r="37" fill="#cf984e"/><circle cx="269" cy="184" r="37" fill="#ddad61"/><circle cx="238" cy="220" r="37" fill="#b98240"/><circle cx="207" cy="184" r="27" fill="#f0cb81"/><circle cx="269" cy="184" r="27" fill="#f4d68f"/><circle cx="238" cy="220" r="27" fill="#eac47f"/><circle cx="207" cy="184" r="4" fill="#ba8951"/><circle cx="269" cy="184" r="4" fill="#ba8951"/><circle cx="238" cy="220" r="4" fill="#ba8951"/>
+<text x="240" y="156" text-anchor="middle" fill="#725038" font-family="Georgia,serif" font-size="15">BUTTER BISCUITS</text><text x="240" y="273" text-anchor="middle" fill="#775b42" font-family="Arial,sans-serif" font-size="12">BATCH No. 08 · 200 g</text>
+</svg>

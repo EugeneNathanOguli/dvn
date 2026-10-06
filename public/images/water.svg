@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a bottle of spring water">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e1eef0"/><stop offset="1" stop-color="#c2dce1"/></linearGradient><linearGradient id="glass" x2="1" y2="0"><stop stop-color="#b0d8df"/><stop offset=".35" stop-color="#f5ffff"/><stop offset=".73" stop-color="#a2d0da"/><stop offset="1" stop-color="#d8f3f2"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="341" cy="86" r="59" fill="#f8ffff" opacity=".57"/><ellipse cx="240" cy="302" rx="95" ry="14" fill="#568390" opacity=".16"/>
+<rect x="215" y="67" width="50" height="28" rx="6" fill="#416d7a"/><path d="M221 95h38v29c0 12 39 20 41 49l7 105c1 15-9 25-25 25h-84c-16 0-26-10-25-25l7-105c2-29 41-37 41-49z" fill="url(#glass)" stroke="#a5ced2" stroke-width="4"/>
+<path d="M185 182h109l8 69c1 14-6 19-19 19h-87c-13 0-20-5-19-19z" fill="#6095a2"/><path d="M201 194h75" stroke="#c7e9e8" stroke-width="3" opacity=".7"/>
+<text x="240" y="220" text-anchor="middle" fill="#f5fbf5" font-family="Georgia,serif" font-size="17">CLEAR SPRING</text><text x="240" y="244" text-anchor="middle" fill="#e0f1ea" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">NATURAL WATER</text><text x="240" y="292" text-anchor="middle" fill="#527a83" font-family="Arial,sans-serif" font-size="12">1.5 L</text>
+</svg>

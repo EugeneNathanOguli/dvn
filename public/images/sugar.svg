@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a pack of raw cane sugar">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#efeadd"/><stop offset="1" stop-color="#dcd9c8"/></linearGradient><linearGradient id="bag" x2="1" y2="1"><stop stop-color="#d2b987"/><stop offset="1" stop-color="#b8a06b"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="364" cy="82" r="58" fill="#f8f6ed" opacity=".66"/><ellipse cx="240" cy="300" rx="117" ry="15" fill="#6c674e" opacity=".16"/>
+<path d="m162 103 157 0 19 26-14 165H156l-14-165z" fill="url(#bag)" stroke="#ae986a" stroke-width="3"/><path d="M162 103h157l19 26H142z" fill="#859066"/><path d="M174 98h134" stroke="#f2e8c9" stroke-width="6"/>
+<circle cx="240" cy="180" r="38" fill="#f0e5c8"/><path d="M228 196c13-18 17-31 15-53 17 14 20 28 15 43-4 14-15 23-30 27m-7-28c-3-18-11-26-23-27 0 17 8 27 24 30m24-15c9-15 20-19 31-14-5 15-15 21-31 19" fill="#899368"/>
+<text x="240" y="242" text-anchor="middle" fill="#5e654c" font-family="Georgia,serif" font-size="17">RAW CANE</text><text x="240" y="265" text-anchor="middle" fill="#62694d" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">PANTRY SUGAR</text><text x="240" y="285" text-anchor="middle" fill="#776e4f" font-family="Arial,sans-serif" font-size="12">1 kg</text>
+</svg>

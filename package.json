@@ -1,0 +1,14 @@
+{
+  "name": "dvn-pos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A practical point-of-sale and inventory management application.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  }
+}

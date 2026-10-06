@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a jar of roasted cashew nuts">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#efe9d5"/><stop offset="1" stop-color="#e5d7b7"/></linearGradient><linearGradient id="jar" x2="1" y2="0"><stop stop-color="#f3d297"/><stop offset=".42" stop-color="#fff1c9"/><stop offset="1" stop-color="#d8ac69"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="364" cy="82" r="54" fill="#fbf5e7" opacity=".55"/><ellipse cx="240" cy="301" rx="111" ry="15" fill="#8d713f" opacity=".15"/>
+<rect x="183" y="84" width="114" height="36" rx="11" fill="#596b43"/><path d="M191 116h98l20 34v113c0 17-12 28-28 28h-82c-16 0-28-11-28-28V150z" fill="url(#jar)" stroke="#cfb474" stroke-width="4"/>
+<path d="M190 166h100v87H190z" fill="#768654"/><path d="M205 191c-4-18 16-21 25-6 10-15 30-12 24 7-4 11-20 21-25 29-4-8-20-18-24-30Z" fill="#f4e4c1"/><path d="M248 190c-3-13 14-16 21-5 7-11 23-8 19 6-4 9-15 16-20 22-5-6-16-13-20-23Z" fill="#ead2a5"/>
+<text x="240" y="229" text-anchor="middle" fill="#fff8e5" font-family="Georgia,serif" font-size="17">ROASTED</text><text x="240" y="249" text-anchor="middle" fill="#fff8e5" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CASHEWS</text><text x="240" y="279" text-anchor="middle" fill="#765b38" font-family="Arial,sans-serif" font-size="12">250 g</text>
+</svg>

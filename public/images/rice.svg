@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a bag of long grain rice">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eceee1"/><stop offset="1" stop-color="#dce0cc"/></linearGradient><linearGradient id="bag" x2="1" y2="1"><stop stop-color="#ede0b5"/><stop offset="1" stop-color="#d3bd85"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="365" cy="88" r="58" fill="#f9f8ed" opacity=".63"/><ellipse cx="240" cy="301" rx="119" ry="15" fill="#686c4a" opacity=".15"/>
+<path d="M164 99h152l20 28-12 168H156l-12-168z" fill="url(#bag)" stroke="#c1ab76" stroke-width="3"/><path d="M164 99h152l20 28H144z" fill="#a6a174"/><path d="M180 91h120" stroke="#f0e8c8" stroke-width="6"/>
+<path d="M209 165c10-30 30-42 32-41 2-1 23 11 32 41-9 26-23 39-32 41-9-2-23-15-32-41Z" fill="#f4eedb"/><path d="M240 145v45m0-30c-10-8-17-8-22-6m22 19c10-8 17-8 22-6" fill="none" stroke="#91a17a" stroke-width="3" stroke-linecap="round"/>
+<text x="240" y="231" text-anchor="middle" fill="#555f46" font-family="Georgia,serif" font-size="19">LONG GRAIN</text><text x="240" y="256" text-anchor="middle" fill="#677354" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">PANTRY RICE</text><text x="240" y="278" text-anchor="middle" fill="#677354" font-family="Arial,sans-serif" font-size="12">2 kg</text>
+</svg>

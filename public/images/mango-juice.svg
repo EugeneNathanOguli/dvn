@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a carton of ripe mango juice">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f5e4cb"/><stop offset="1" stop-color="#ecd2ab"/></linearGradient><linearGradient id="carton" x2="1" y2="1"><stop stop-color="#df9147"/><stop offset="1" stop-color="#c56236"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="357" cy="83" r="56" fill="#fff3dc" opacity=".61"/><ellipse cx="240" cy="303" rx="102" ry="15" fill="#956444" opacity=".14"/>
+<path d="m183 96 45-33h80l-27 36v202H167V119z" fill="url(#carton)"/><path d="m183 96 45-33v35z" fill="#f2bc71"/><path d="M227 63h81l-27 35h-81z" fill="#a95837"/><rect x="185" y="128" width="108" height="126" rx="20" fill="#f3dfad"/>
+<path d="M230 167c24-30 51-19 44 8-6 24-32 38-47 43-23-17-37-43-23-58 10-10 20-6 26 7Z" fill="#e9ad45"/><path d="M231 167c-1-16 12-30 26-33-1 14-12 27-26 33Z" fill="#75884c"/><path d="M230 170v44" stroke="#cf8034" stroke-width="3"/>
+<text x="240" y="235" text-anchor="middle" fill="#80543b" font-family="Georgia,serif" font-size="17">RIPE MANGO</text><text x="240" y="277" text-anchor="middle" fill="#fbefd3" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">FRUIT JUICE · 1 L</text>
+</svg>

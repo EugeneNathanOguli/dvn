@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a gentle botanical bath soap bar">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e4ede0"/><stop offset="1" stop-color="#cbdbcb"/></linearGradient><linearGradient id="box" x2="1" y2="1"><stop stop-color="#b5c39b"/><stop offset="1" stop-color="#899a73"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="103" cy="86" r="52" fill="#f8f6e9" opacity=".54"/><ellipse cx="242" cy="286" rx="125" ry="18" fill="#577457" opacity=".14"/>
+<g transform="rotate(-8 240 185)"><rect x="132" y="120" width="216" height="125" rx="36" fill="url(#box)"/><path d="M153 151c17-27 47-33 76-28v76c-38 8-66-7-76-48Zm174 0c-17-27-47-33-76-28v76c38 8 66-7 76-48Z" fill="#dfe8ca"/><path d="M230 204c-3-17 6-30 19-46m-18 46c-13-19-28-22-38-14 8 15 21 20 38 14Zm14-19c9-17 23-20 34-12-5 15-17 21-34 12Z" fill="none" stroke="#67805d" stroke-width="4" stroke-linecap="round"/></g>
+<text x="240" y="275" text-anchor="middle" fill="#536649" font-family="Georgia,serif" font-size="17">GARDEN SOAP</text><text x="240" y="300" text-anchor="middle" fill="#76836b" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">OLIVE &amp; HERB · 125 g</text>
+</svg>

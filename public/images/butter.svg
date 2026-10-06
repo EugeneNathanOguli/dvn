@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" aria-label="Illustration of a wrapped block of farmhouse butter">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f3ecd0"/><stop offset="1" stop-color="#eadcb2"/></linearGradient><linearGradient id="wrap" x2="1" y2="1"><stop stop-color="#f2d579"/><stop offset="1" stop-color="#dfad48"/></linearGradient></defs>
+<rect width="480" height="360" fill="url(#bg)"/><circle cx="361" cy="80" r="57" fill="#fffbed" opacity=".6"/><ellipse cx="240" cy="289" rx="130" ry="17" fill="#857143" opacity=".15"/>
+<g transform="rotate(-7 240 183)"><path d="m133 157 43-27h171l24 33-22 92-41 21H147l-19-33z" fill="#dfb24f"/><path d="m173 130 173 0-20 145H147z" fill="url(#wrap)"/><path d="M179 146h155v112H179z" fill="#fff0bf"/><path d="M183 162c32 7 106 7 147 0M181 236c42-7 109-7 152 0" stroke="#ead691" stroke-width="3" fill="none"/><circle cx="257" cy="198" r="27" fill="#ddac48"/><path d="M248 202c7-16 13-24 23-28-2 16 2 25 13 31-14 4-24 2-36-3Z" fill="#7c8d5d"/></g>
+<text x="240" y="304" text-anchor="middle" fill="#726343" font-family="Georgia,serif" font-size="16">FARMHOUSE BUTTER</text><text x="240" y="327" text-anchor="middle" fill="#81744f" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">DREAM UP SOMETHING GOOD</text>
+</svg>

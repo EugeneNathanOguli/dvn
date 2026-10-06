@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: dvn-pos
+    runtime: docker
+    plan: starter
+    healthCheckPath: /health
+    disk:
+      name: dvn-pos-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: POS_ADMIN_EMAIL
+        sync: false
+      - key: POS_ADMIN_PASSWORD
+        sync: false
